@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    height: 700px;
+    
+    background-image: url(../images/donation13.jpg);
+    background-color: black;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    text-align: center; /* text take majhkhane antese */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.title{
+    font-size: 80px;
+}
+.btn{
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    height: 40px;
+    width: 90px;
+    margin-top: 30px;
+
+}
+.donate-container{
+    text-align: center; /* text take majhkhane antese */
+    background-color:rgb(255, 241, 241) ;
+    /* padding: 10px 30px; */
+    padding:5px 0px;
+    margin:60px 400px;
+    border-radius: 20px;
+}
+.donate{
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.donate-message{
+
+    margin-top:50px ;
+    margin-bottom: 40px;
+    color: gray;
+}
+.money-ammount{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-bottom: 100px;
+}
+.background-box{
+    background: rgb(255, 241, 241);
+    box-shadow: 10px;
+    border-radius: 10px;
+    padding: 30px;
+
+}
+.money{
+    color: gray;
+    font-weight: bold;
+}
+
+
