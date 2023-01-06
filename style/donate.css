@@ -133,6 +133,39 @@
     gap:150px;
     margin:100px
 }
+.contact{
+    background-color: rgb(255, 237, 212);
+    gap: 0;
+    margin-top: 30px;
+}
+.contact input{
+    width: 200px;
+    border-radius: 3px;
+    height: 40px;
+    border: none;
+    padding: 0px 18px;
+    background-color: rgb(225, 222, 222);
 
+}
+::placeholder{
+    color: rgb(81, 81, 81);
+    font-size: larger;
+    font-weight: 800;
+}
+.ending{
+    background-color:black;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.humble{
+   color: rgb(146, 14, 14);
+   font-style:italic;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.do-it{
+    color: aliceblue;
+}
 
 
